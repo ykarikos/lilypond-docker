@@ -1,6 +1,6 @@
 # Lilypond
 
-Run [Lilypond](http://lilypond.org/) unstable 2.19.84 in a docker image:
+Latest [Lilypond](http://lilypond.org/) stable version 2.20.0 in a docker image:
 
 ```
 docker build -t ykarikos/lilypond lilypond
