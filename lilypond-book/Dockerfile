@@ -1,5 +1,5 @@
 # AUTHOR:         Yrjö Kari-Koskinen <yrjo.karikoskinen@gmail.com>
-# DESCRIPTION:    Lilypond-book unstable + XeTeX + make
+# DESCRIPTION:    Lilypond-book stable + XeTeX + make
 # TO_BUILD:       docker build -t ykarikos/lilypond-book lilypond-book
 # SOURCE:         https://github.com/ykarikos/lilypond-docker
 
